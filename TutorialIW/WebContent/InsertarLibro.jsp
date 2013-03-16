@@ -26,7 +26,6 @@
 		
 		String consultaSQL = "insert into Libros (isbn, titulo,categoria) values ";
 		consultaSQL += "('"+isbn+"','"+titulo+"','"+categoria+"')";
-		System.out.println(consultaSQL);
 		filas = sentencia.executeUpdate(consultaSQL);
 		
 		response.sendRedirect("MostrarLibros.jsp");
