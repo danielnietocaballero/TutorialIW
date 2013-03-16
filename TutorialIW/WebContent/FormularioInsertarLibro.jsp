@@ -19,11 +19,11 @@
 				<input id="isbn" type="text" name="isbn" />
 			</p>
 			<p>
-				<label for="titulo">Título:</label>
+				<label for="titulo">T&iacute;tulo:</label>
 				<input id="titulo" type="text" name="titulo" />
 			</p>
 			<p>
-				<label for="categoria">Categoría:</label>
+				<label for="categoria">Categor&iacute;a:</label>
 				<input id="categoria" type="text" name="categoria" /></p>
 			<p>
 				<input type="submit" value="Insertar" />
