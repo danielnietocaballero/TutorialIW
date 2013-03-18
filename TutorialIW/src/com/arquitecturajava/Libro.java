@@ -8,6 +8,9 @@ public class Libro
 	private String titulo;
 	private String categoria;
 	
+	public Libro(){
+		super();
+	}
 	public String getIsbn() 
 	{
 		return isbn;
