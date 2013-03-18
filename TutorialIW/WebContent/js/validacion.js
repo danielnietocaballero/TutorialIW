@@ -8,11 +8,11 @@ function validacion(){
 		alert("Error, datos no validos.");
 		return false;
 	}
-	/*else if(!isValidISBN13(isbn.value))
+	else if(!isValidISBN13(isbn.value))
 	{
 		alert('Error, el ISBN no sigue el formato ISBN-13');
 		return false;
-	}*/
+	}
 	else
 		miformulario.submit();
 }
