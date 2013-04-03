@@ -30,7 +30,7 @@
 				<configuration>
 					<url>http://127.0.0.1:8080/manager</url>
 					<server>TomcatServer</server>
-					<path>/Nietou75892662-03</path>
+					<path>/u75892662-03</path>
 				</configuration>
 			</plugin>
 		</plugins>
